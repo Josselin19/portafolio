@@ -30,14 +30,22 @@
     "change of language":"Change of language",
     "titleTestimonios" : "Testimonials",
     "testimonyZayas":"ING Elizabeth, is a very intelligent young woman, very focused on her objectives, has very well defined her goals and scope, and knows very well which area she likes the most, we have that she is very good at analysis, managing personal and professional projects, administration networks, she is also very hardworking and humble, she also has extensive knowledge of web applications, as well as creating applications for Android.",
-    "testimonyKricia":"Josselin, has knowledge in project management, she is very good at coordinating, guiding and working as a team. Josselin's commitment to lead the project and the team in search of continuous improvement is admirable.",
-    "DateZayas": "Monday, June 8, 2021",
-    "DateKricia": "Monday, June 7, 2021",
+    "testimonyKricia":"Josselin has knowledge in project management, she is very good at coordinating, guiding and working as a team. Josselin's commitment to lead the project and the team in search of continuous improvement is admirable.",
     "testimonyVictor": "Josselin Maravilla, is an excellent manager and leader, she knows the agile management processes and also knows the different development cycles for a project; she also knows agile frameworks such as Sprint, SCRUM and KANBAN.",
+    "testimonyYancy":"Josselin, is an excellent person; he possesses many qualities. She is collaborative and intelligent with well-founded goals of hers. I consider that she handles the knowledge acquired from her very well in her studies, she has skills in different branches of computer science, I firmly affirm that she is a humble young lady with many projects and aspirations for the future.",
+    "testimonyHugo":"Joselin Maravilla, is an excellent professional, has charisma and leadership skills, very capable of directing, organizing and guiding projects. He is a very intelligent and confident person who excels in the areas of Project Management, Networks, Robotics and Graphic Design. It should be noted that he is a humble, proactive person and is capable of teamwork.",
+    "DateZayas": "Monday, June 8, 2021",
     "DateVictor":"Monday, June 7, 2021",
+    "DateKricia": "Monday, June 7, 2021",
+    "DateYancy": "Wednesday, June 9, 2021",
+    "DateHugo": "Wednesday, June 9, 2021",
     "Curriculum":"Curriculum vitae",
     "Area":"Area I am in Electronic Business and Business Intelligence",
     "AreaZayas":"I am a web developer and computer forensic.",
-    "AreaVictor":"I am a web developer"
+    "AreaVictor":"I am a web developer",
+    "AreaHugo":"I am a Computer Systems and Networks Engineer, with a pre-specialization in Informatics Forence and currently pursuing a Master's Degree in University Teaching with virtual learning approaches.",
+    "AreaYancy":"I am a Bachelor of Science in Early Childhood Education Specialty."
+
+    
 
 }
