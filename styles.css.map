@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"styles.css","sourceRoot":"webpack:///"}
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":"AAAA;IACI,6GAA6G;IAC7G,4BAA4B;IAC5B,4BAA4B;;AAEhC,C","file":"styles.css","sourcesContent":["body{\r\n    background-image: url('https://res.cloudinary.com/christianzayas/image/upload/v1623193194/Amor/fondotwo.png');\r\n    background-repeat: no-repeat;\r\n    background-attachment: fixed;\r\n\r\n}"],"sourceRoot":"webpack:///"}

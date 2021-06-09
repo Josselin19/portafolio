@@ -5,7 +5,7 @@
     "Projects": "Projects",
     "Contact": "Contact",
     "Iam": "I am",
-    "I am a young": "I am a 21-year-old young woman, a fourth-year student of the engineering degree in computer systems and networks, my main objective is to develop professionally and acquire new knowledge in the different areas of the career and in this way put them into practice, as an organized person and with great motivation, I am capable of adapting to any circumstance and always giving my best in any project, at the same time that I strive to work as a team and promote values such as companionship.",
+    "I am a young": "I am a 21-year-old young woman, fourth-year student of the engineering degree in computer systems and networks, my main objective is to develop professionally and acquire new knowledge in the different areas of the career and in this way put them into practice, as an organized person and with great motivation, I am capable of adapting to any circumstance and always giving my best in any project, at the same time that I strive to work as a team and promote values such as companionship",
     "ProfessionalSkills":"Professional skills",
     "At the moment": "Currently I have knowledge in computer modeling and animation I also have knowledge in the  Network topology configuration myself I have some knowledge in HTML and css, Knowledge of electronics currently I continue to develop my knowledge in these areas.",
     "BLENDER":"BLENDER",
@@ -27,6 +27,14 @@
     "Email":"Email",
     "Copyright:":"Copyright",
     "copyright all right reserved":"copyright all right reserved",
-    "change of language":"Change of language"
+    "change of language":"Change of language",
+    "titleTestimonios" : "Testimonials",
+    "testimonyZayas":"ING Elizabeth, is a very intelligent young woman, very focused on her objectives, has very well defined her goals and scope, and knows very well which area she likes the most, we have that she is very good at analysis, managing personal and professional projects, administration networks, she is also very hardworking and humble, she also has extensive knowledge of web applications, as well as creating applications for Android.",
+    "testimonyKricia":"Josseline has knowledge in project management, she is very good at coordinating, guiding and working as a team. Josselin's commitment to lead the project and the team in search of continuous improvement is admirable.",
+    "DateZayas": "Monday, June 8, 2021",
+    "DateKricia": "Monday, June 7, 2021",
+    "testimonyVictor": "Josselin Maravilla is an excellent manager and leader, she knows the agile management processes and also knows the different development cycles for a project; she also knows agile frameworks such as Sprint, SCRUM and KANBAN.",
+    "DateVictor":"Monday, June 7, 2021",
+    "Curriculum":"Curriculum vitae"
 
 }
