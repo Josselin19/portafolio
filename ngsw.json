@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1623273175362,
+  "timestamp": 1623274148842,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -48,7 +48,7 @@
   "dataGroups": [],
   "hashTable": {
     "/assets/i18n/en.json": "8a8a1a89a42acb3c4aff416b8d6a9863beff9a00",
-    "/assets/i18n/es.json": "9f6b0a80eaf526a4ee0ee3dd064afb046c56d0b3",
+    "/assets/i18n/es.json": "134ecc7f00af5c8ed6067abcfca4be188077b67c",
     "/assets/icons/icon-128x128.png": "9802df09b4dde3e3b1569e66fc53f5ee0e8bb15d",
     "/assets/icons/icon-144x144.png": "580a03f953ba5d96ee2f43d0bb6edda0a43c634c",
     "/assets/icons/icon-152x152.png": "a66444705132a488e92834f4095af0b9ddc7e7a0",
