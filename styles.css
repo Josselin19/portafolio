@@ -4,5 +4,25 @@ body{
     background-attachment: fixed;
 
 }
+.owl-dots {
+    text-align: center;
+    margin-top: 0px;
+}
+.owl-dot {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+    margin: 0 5px;
+    border: 5px solid rgb(19, 18, 18) !important;
+    transition: all 0.3s ease;
+}
+.owl-dot:hover,
+.owl-dot.active {
+    background-color: #b4d3d3 !important;
+    transition: all 0.2s ease;
+    
+}
 
 /*# sourceMappingURL=styles.css.map*/

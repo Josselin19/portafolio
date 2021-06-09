@@ -30,11 +30,14 @@
     "change of language":"Change of language",
     "titleTestimonios" : "Testimonials",
     "testimonyZayas":"ING Elizabeth, is a very intelligent young woman, very focused on her objectives, has very well defined her goals and scope, and knows very well which area she likes the most, we have that she is very good at analysis, managing personal and professional projects, administration networks, she is also very hardworking and humble, she also has extensive knowledge of web applications, as well as creating applications for Android.",
-    "testimonyKricia":"Josseline has knowledge in project management, she is very good at coordinating, guiding and working as a team. Josselin's commitment to lead the project and the team in search of continuous improvement is admirable.",
+    "testimonyKricia":"Josselin, has knowledge in project management, she is very good at coordinating, guiding and working as a team. Josselin's commitment to lead the project and the team in search of continuous improvement is admirable.",
     "DateZayas": "Monday, June 8, 2021",
     "DateKricia": "Monday, June 7, 2021",
-    "testimonyVictor": "Josselin Maravilla is an excellent manager and leader, she knows the agile management processes and also knows the different development cycles for a project; she also knows agile frameworks such as Sprint, SCRUM and KANBAN.",
+    "testimonyVictor": "Josselin Maravilla, is an excellent manager and leader, she knows the agile management processes and also knows the different development cycles for a project; she also knows agile frameworks such as Sprint, SCRUM and KANBAN.",
     "DateVictor":"Monday, June 7, 2021",
-    "Curriculum":"Curriculum vitae"
+    "Curriculum":"Curriculum vitae",
+    "Area":"Area I am in Electronic Business and Business Intelligence",
+    "AreaZayas":"I am a web developer and computer forensic.",
+    "AreaVictor":"I am a web developer"
 
 }

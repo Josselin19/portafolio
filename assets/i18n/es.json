@@ -30,11 +30,14 @@
     "change of language":"Cambio de idioma",
     "titleTestimonios" : "Testimonios",
     "testimonyZayas":"ING Elizabeth, es una joven muy inteligente, muy concentrada en sus objetivos, tiene muy bien definidos sus metas y alcances, e sabe muy bien qué área le gusta más, tenemos que es muy buena en el análisis, gestión de proyectos personales como profesionales, redes de administración, también es muy trabajadora y humilde, también posee un amplio conocimiento de aplicaciones web, como también de creación de aplicaciones para Android. ",
-    "testimonyKricia":"Josseline posee conocimientos en la dirección de proyectos, es muy buena para coordinar, guiar y trabajar en equipo. Es admirable el compromiso de Josselin para llevar de la mano el proyecto y el equipo en búsqueda de la mejora continua.",
+    "testimonyKricia":"Josselin, posee conocimientos en la dirección de proyectos, es muy buena para coordinar, guiar y trabajar en equipo. Es admirable el compromiso de Josselin para llevar a cabo la mano el proyecto y el equipo en la búsqueda de la mejora continua.",
     "DateZayas": "Lunes, 8 de junio 2021",
     "DateKricia": "Lunes, 7 de junio 2021",
-    "testimonyVictor": "Josselin Maravilla es una excelente gestora y líder, conoce los procesos de gestión ágil ademas conoce los diferentes ciclos de desarrollo para un proyecto; también conoce el manejo de los framework ágiles tales como Sprint, SCRUM y KANBAN.",
+    "testimonyVictor": "Josselin Maravilla, es una excelente gestora y líder, conoce los procesos de gestión ágil ademas conoce los diferentes ciclos de desarrollo para un proyecto; también conoce el manejo de los framework ágiles tales como Sprint, SCRUM y KANBAN.",
     "DateVictor":"Lunes, 7 de junio 2021",
-    "Curriculum":"Currículum vítae"
+    "Curriculum":"Currículum vítae",
+    "Area":"Area estoy en Negocios Electrónicos e Inteligencia de Negocios",
+    "AreaZayas":"Soy desarrollador web y forense informatico.",
+    "AreaVictor":"Soy desarrollador web"
 
 }
